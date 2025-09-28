@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gnomewell
 
 ## Description
@@ -53,3 +54,7 @@ Gnomewell is a 2D mobile action game where players guide a gnome lowered into a 
 ## Date of Final Commit / Release
 
 **September 28, 2025**
+=======
+# PEBSIT004_GnomeOnARope_AbaraJ_AbogadoN_CezarD
+Gnomewellproject
+>>>>>>> ccd7107464c60bf9046de8447467109a128b8cb3
