@@ -41,15 +41,14 @@ Gnomewell is a 2D mobile action game where players guide a gnome lowered into a 
 
 ## Video & SRT File
 
-* Gameplay demo video: [YouTube (Unlisted)](https://youtu.be/your-demo-link)
+* Gameplay demo video: 
 * SRT subtitle file: `docs/gnomewell_demo.srt`
 
 ## Group Members & Contributions
 
-* **[Name 1]** – Programming (Rope physics, Input system)
-* **[Name 2]** – Level & Trap Design
-* **[Name 3]** – UI, On-screen Controls, Menus
-* **[Name 4]** – Audio, Testing, Documentation
+* **Nythan Abogado** – Programming (Rope physics, Input system), UI, On-screen Controls, Menus, Level & Trap Design
+* **Jezreal Abara** – Assembling of the assets, Documentation, Testing
+* **Davidson Cezar** – Testing, Documentation, Uploader
 
 ## Date of Final Commit / Release
 
