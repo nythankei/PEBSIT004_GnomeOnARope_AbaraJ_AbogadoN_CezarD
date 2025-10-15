@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Gnomewell
 
 ## Description
@@ -19,19 +19,13 @@ Gnomewell is a 2D mobile action game where players guide a gnome lowered into a 
 
 ## How to Run
 
-1. Clone or download the repository:
-
-   ```bash
-   git clone https://github.com/username/gnomewell.git
-   cd gnomewell
-   ```
-2. Open the project in **Unity 2021.3.5f1**.
-3. In Unity, go to:
+1. Open the project in **Unity 2021.3.5f1**.
+2. In Unity, go to:
 
    * `File > Build Settings > Android`
    * Connect an Android device with USB debugging enabled.
    * Click **Build and Run**.
-4. The `.apk` will be installed and launched on your device.
+3. The `.apk` will be installed and launched on your device.
 
 ## Known Issues / Limitations
 
@@ -42,13 +36,13 @@ Gnomewell is a 2D mobile action game where players guide a gnome lowered into a 
 ## Video & SRT File
 
 * Gameplay demo video: 
-* SRT subtitle file: `docs/gnomewell_demo.srt`
+* SRT subtitle file: `docs/caption.srt`
 
 ## Group Members & Contributions
 
 * **Nythan Abogado** – Programming (Rope physics, Input system), UI, On-screen Controls, Menus, Level & Trap Design
-* **Jezreal Abara** – Assembling of the assets, Documentation, Testing
-* **Davidson Cezar** – Testing, Documentation, Uploader
+* **Jezreal Abara** – Uploader, Documentation, Testing
+* **Davidson Cezar** – Testing, Documentation
 
 ## Date of Final Commit / Release
 
