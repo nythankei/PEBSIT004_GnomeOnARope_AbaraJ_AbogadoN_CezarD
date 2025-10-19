@@ -81,7 +81,6 @@ Avoid traps, collect treasures, and keep your gnome safe!
 
 * Rope movement may feel inconsistent on certain Android devices.
 * Visual glitches can occur during rapid rope direction changes.
-* Restarting scenes may cause a minor delay in audio playback.
 
 ---
 
