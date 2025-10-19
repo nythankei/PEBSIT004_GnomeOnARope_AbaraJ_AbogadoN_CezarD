@@ -1,7 +1,3 @@
-Perfect 👍 Here’s the final **ready-to-copy** version of your `HOW_TO_RUN.md` — clean, markdown-friendly, and 100% GitHub-ready:
-
----
-
 # 🧭 HOW TO RUN — GNOMEWELL
 
 ## 🎮 Game Overview
