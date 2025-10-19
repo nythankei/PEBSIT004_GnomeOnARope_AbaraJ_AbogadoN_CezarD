@@ -91,7 +91,3 @@ Avoid traps, collect treasures, and keep your gnome safe!
 * Use **Git LFS** for managing large files (like sprites and sound assets).
 * Regularly pull updates to stay synced with your team’s latest changes.
 
----
-
-✅ You can now **copy everything above** and paste it directly into a new file named `HOW_TO_RUN.md` in your Gnomewell repository.
-Would you like me to include **a short section at the end** that explains how to update or push the file to GitHub using commands?
